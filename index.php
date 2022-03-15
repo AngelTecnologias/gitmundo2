@@ -12,9 +12,11 @@
     
 <h1>Ejemplo</h1>
 <p>
+<font size="14" name ="tempus sans ITC" Color ="blue"> 
+<marquee >
 En el siguiente trabajo  trataremos sobre git que es un  sistema de control de versiones de nuestro codigo donde  pude contribuir una o mas personas.
-
-
+</marquee>
+</font>
 </p>
 
 
